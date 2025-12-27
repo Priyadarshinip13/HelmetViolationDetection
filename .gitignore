@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+detected_numbers/
+*.mp4
+*.jpg
+*.jpeg
+*.png
